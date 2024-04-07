@@ -17,7 +17,7 @@ Identification of high-value customers and customer acquisition/retention trends
 Evaluation of product performance metrics such as sales, quantity sold, top 10 highest profit making products, brands.
 Identification of best-selling products and top-performing categories.
 
-![image](https://github.com/falguni2904/Maven-Market-PowerBI-Project/assets/71444769/7fac7470-3c60-4ef7-9c46-a25bc5edd894)
+
 
 
 
